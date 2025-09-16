@@ -1,0 +1,11 @@
+size(800,400);
+background(255,255,0);
+textSize(100);
+fill(0,50,255);
+text("Ikea",50,200);
+textSize(50);
+fill(0,255,255);
+text("Hej!",700,300);
+textSize(75);
+fill(0,150,255);
+text("Boekenkast KALLAX",140,100);
