@@ -1,0 +1,12 @@
+size(400,400);
+background(255,255,255);
+stroke(5);
+noFill();
+int x = 200;
+int y = 200;
+int ci = 50;
+ellipse(x,y,ci,ci);
+ellipse(x+55,y,ci,ci);
+ellipse(x-55,y,ci,ci);
+ellipse(x-28,y+35,ci,ci);
+ellipse(x+28,y+35,ci,ci);

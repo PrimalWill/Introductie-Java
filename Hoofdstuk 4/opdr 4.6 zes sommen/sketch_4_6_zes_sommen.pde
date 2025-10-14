@@ -1,0 +1,12 @@
+int a = 15%4+3;
+int b = 15%(4+3);
+int c = 10+5*8-3;
+int d = (10+5)*(8-3);
+int e = ((10+5)*2)-3;
+int f = 10+5*2-3;
+println(a);
+println(b);
+println(c);
+println(d);
+println(e);
+println(f);

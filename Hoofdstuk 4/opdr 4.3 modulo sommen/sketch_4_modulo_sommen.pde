@@ -1,0 +1,13 @@
+size(500,500);
+int hoi = 15;
+int e = 31;
+int beh = 10;
+int muk = 38;
+hoi %= 2;
+println(hoi);
+e %= 3;
+println(e);
+beh %= 5;
+println(beh);
+muk %= 4;
+println(muk);
